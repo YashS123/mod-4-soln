@@ -1,0 +1,16 @@
+.head{
+    
+    text-align: center;
+}
+body{
+    background-color: #0A1172;
+    color:#fc4c4e;
+}
+.contain{
+    border:#e11584 10px solid;
+    border-radius: 25px;
+    width:500px;
+    height:250px;
+    margin-top:200px;
+    margin-left:550px;
+}
